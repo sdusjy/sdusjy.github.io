@@ -230,8 +230,6 @@ enum SingletonEnum {
 <h3>最近访客</h3>
 <ul class="ds-recent-visitors" data-num-items="4" data-avatar-size="45" style="margin-top:10px;"></ul>
 </section>
-
----
 <!-- 多说评论框 start -->
     <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="{{ site.blog.url }}{{ page.url }}"></div>
 <!-- 多说评论框 end -->
@@ -248,4 +246,7 @@ var duoshuoQuery = {short_name:"sdusjy"};
     })();
     </script>
 <!-- 多说公共JS代码 end -->
+
+
+---
 
