@@ -1,6 +1,6 @@
 - href: /page/timing.html
   icon: fa fa-clock-o
-  title: 时间穿梭
+  title: 文章归档
 
 - href: /page/category.html
   icon: fa fa-tags
@@ -14,7 +14,7 @@
 #newblank: true
 - href: /page/resource.html
   icon: fa fa-book
-  title: 资源收藏
+  title: 文档积累
   newblank: fasle
 
 - href: /page/about.html
